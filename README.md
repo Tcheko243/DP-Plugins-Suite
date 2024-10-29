@@ -10,9 +10,9 @@
 
 5.DP LayersMerge
 
-6. DP C2Moi3d
+6.DP C2Moi3d
    
-7. DP Arnold render optimizer
+7.DP Arnold render optimizer
 
 These tools make your work with Cinema 4D easier and give you a 400% speed boost.
 
