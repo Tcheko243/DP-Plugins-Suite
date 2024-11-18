@@ -14,6 +14,8 @@
    
 7.DP Arnold render optimizer
 
+8.DP Project Manager
+
 These tools make your work with Cinema 4D easier and give you a 400% speed boost.
 
 # Installation
